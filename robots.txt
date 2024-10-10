@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anesong.github.io/manyau/sitemap.xml
